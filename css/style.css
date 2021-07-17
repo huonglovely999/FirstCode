@@ -200,10 +200,10 @@
     height: 18rem;
     left: 5rem;
 }
-#footer .footer-content {
+.footer-content {
     display: grid;
 }
-#footer .footer-content a {
+.footer-content a {
     margin-top: 7px;
     width: max-content;
 }
